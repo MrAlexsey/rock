@@ -7,7 +7,7 @@
 
 int main()
 {
-		cout << "Hello World";
+		cout << "Hello WoFrld";
     return 0;
 }
 
